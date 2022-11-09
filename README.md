@@ -1,5 +1,4 @@
-this page deployed with heroku 
-here is the page's link >> https://emin-movie-app-firebase.herokuapp.com/
+
 
 ## Description
 
